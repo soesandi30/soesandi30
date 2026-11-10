@@ -8,41 +8,43 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science student at Albukhary International University, specialising in Data Science
-
-💡 Interested in:
-
-- Data Science & Machine Learning
-- Data Mining & Databases
-- Cloud Computing
-- Web Development
-
-🤝 Open to internships and to collaborating on data and web projects.
+I'm a Computer Science undergraduate at Albukhary International University, majoring in Data Science. I enjoy turning data into useful insights and building web applications that people can actually use. At the moment I'm focused on machine learning, data mining and cloud computing, and I'm looking for an internship where I can apply them to real problems.
 
 ---
 
-## ⚡ Tech Stack
+## 💡 Interests
+
+- **Data science and machine learning:** finding patterns in data and building models from it
+- **Data mining and databases:** organising and analysing information at scale
+- **Cloud computing:** designing systems that run reliably online
+- **Web development:** building clear, user-friendly interfaces
+- **Teaching and tutoring:** helping junior students with mathematics and statistics
+- **Community and student activities:** volunteering, events and leadership through AMSA and AIU
+
+---
+
+## ⚡ Technical Skills
 
 ### Programming Languages
 
-![Python](https://skillicons.dev/icons?i=python,js,html,css,java)
+![Programming Languages](https://skillicons.dev/icons?i=python,js,html,css,java)
 
 ### Databases & Cloud
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,aws)
+![Databases and Cloud](https://skillicons.dev/icons?i=postgres,mysql,aws)
 
 
-### Tools & Platforms
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 ### 🏫 AIU Vantage (Final Year Project)
 
-Self-hosted institutional intranet for AIU with role-based access control and data sovereignty. Planned stack: React, Laravel, PostgreSQL, built as an SPA / PWA. My role: System Analyst / UI-UX.
+Self-hosted institutional intranet for AIU with role-based access control and data sovereignty. Planned stack: React, Laravel and PostgreSQL, built as an SPA / PWA. My role: System Analyst / UI-UX.
 
 ### 💧 Kedah Water Outage Information System
 
@@ -58,7 +60,7 @@ Five different Arduino projects completed under Aletheia Club.
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Studying
 
 - Machine Learning
 - Data Mining
@@ -73,15 +75,6 @@ Five different Arduino projects completed under Aletheia Club.
 - Top 5, Integrity PSA Video Presentation
 - Blockchain & Digital Trust: Beyond Cryptocurrency, Malaysia Blockchain Infrastructure (2026)
 - Presentation Training Workshop, AMSA (2024)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soesandi30&show_icons=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soesandi30&layout=compact" height="160" alt="Top languages" />
-</p>
 
 ---
 
