@@ -31,9 +31,6 @@
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,aws)
 
-### Frameworks & Libraries
-
-![Frameworks](https://skillicons.dev/icons?i=react,laravel)
 
 ### Tools & Platforms
 
